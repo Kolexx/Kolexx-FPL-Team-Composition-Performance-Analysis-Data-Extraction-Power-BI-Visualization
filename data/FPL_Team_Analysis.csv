@@ -1,0 +1,391 @@
+Player ID,position,multiplier,is_captain,is_vice_captain,element_type_x,Gameweek,web_name,element_type_y,now_cost,team_name,Player_x,Base Points,Multiplier,Total Points,On Bench,Player_y,Buying Price,Selling Price,Game Week,Overall Rank
+235,1,1,False,True,1,1,Pickford,1,51,Everton,Pickford,1,1,1,False,Pickford,5.1,4.9,0,7576260
+326,2,1,False,False,2,1,Konaté,2,52,Liverpool,Konaté,1,1,1,False,Konaté,5.2,5.1,0,7576260
+171,3,1,False,False,2,1,Gusto,2,49,Chelsea,Gusto,1,1,1,False,Gusto,4.9,5.0,0,7576260
+505,4,1,False,False,2,1,Udogie,2,48,Spurs,Udogie,2,1,2,False,Udogie,4.8,4.9,0,7576260
+255,5,1,False,False,2,1,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,7576260
+514,6,1,False,False,3,1,Bowen,3,73,West Ham,Bowen,2,1,2,False,Bowen,7.3,7.5,0,7576260
+366,7,1,False,False,3,1,B.Fernandes,3,83,Man Utd,B.Fernandes,3,1,3,False,B.Fernandes,8.3,8.4,0,7576260
+182,8,1,False,False,3,1,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,7576260
+328,9,1,False,False,3,1,M.Salah,3,137,Liverpool,M.Salah,14,1,14,False,M.Salah,13.7,,0,7576260
+351,10,2,True,False,4,1,Haaland,4,147,Man City,Haaland,7,2,14,False,Haaland,14.7,14.8,0,7576260
+276,11,1,False,False,4,1,Ladapo,4,45,Ipswich,Ladapo,0,1,0,False,Ladapo,4.5,4.5,0,7576260
+154,12,0,False,False,1,1,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,7576260
+301,13,0,False,False,2,1,Okoli,2,40,Leicester,Okoli,0,0,0,True,Okoli,4.0,4.0,0,7576260
+292,14,0,False,False,3,1,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,7576260
+286,15,0,False,False,4,1,Cannon,4,45,Leicester,Cannon,0,0,0,True,Cannon,4.5,4.5,0,7576260
+235,1,1,False,True,1,2,Pickford,1,51,Everton,Pickford,1,1,1,False,Pickford,5.1,4.9,0,3520163
+326,2,1,False,False,2,2,Konaté,2,52,Liverpool,Konaté,7,1,7,False,Konaté,5.2,5.1,0,3520163
+171,3,1,False,False,2,2,Gusto,2,49,Chelsea,Gusto,0,1,0,False,Gusto,4.9,5.0,0,3520163
+505,4,1,False,False,2,2,Udogie,2,48,Spurs,Udogie,6,1,6,False,Udogie,4.8,4.9,0,3520163
+255,5,1,False,False,2,2,Robinson,2,51,Fulham,Robinson,7,1,7,False,Robinson,5.1,,0,3520163
+336,6,1,False,False,3,2,Szoboszlai,3,63,Liverpool,Szoboszlai,2,1,2,False,Szoboszlai,6.5,6.5,2,3520163
+366,7,1,False,False,3,2,B.Fernandes,3,83,Man Utd,B.Fernandes,2,1,2,False,B.Fernandes,8.3,8.4,0,3520163
+182,8,1,False,False,3,2,Palmer,3,111,Chelsea,Palmer,17,1,17,False,Palmer,11.1,,0,3520163
+328,9,1,False,False,3,2,M.Salah,3,137,Liverpool,M.Salah,10,1,10,False,M.Salah,13.7,,0,3520163
+351,10,2,True,False,4,2,Haaland,4,147,Man City,Haaland,17,2,34,False,Haaland,14.7,14.8,0,3520163
+148,11,1,False,False,4,2,Welbeck,4,55,Brighton,Welbeck,9,1,9,False,Welbeck,5.5,5.7,2,3520163
+154,12,0,False,False,1,2,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,3520163
+301,13,0,False,False,2,2,Okoli,2,40,Leicester,Okoli,0,0,0,True,Okoli,4.0,4.0,0,3520163
+292,14,0,False,False,3,2,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,3520163
+286,15,0,False,False,4,2,Cannon,4,45,Leicester,Cannon,0,0,0,True,Cannon,4.5,4.5,0,3520163
+235,1,1,False,True,1,3,Pickford,1,51,Everton,Pickford,2,1,2,False,Pickford,5.1,4.9,0,1977827
+326,2,1,False,False,2,3,Konaté,2,52,Liverpool,Konaté,6,1,6,False,Konaté,5.2,5.1,0,1977827
+171,3,1,False,False,2,3,Gusto,2,49,Chelsea,Gusto,2,1,2,False,Gusto,4.9,5.0,0,1977827
+505,4,1,False,False,2,3,Udogie,2,48,Spurs,Udogie,1,1,1,False,Udogie,4.8,4.9,0,1977827
+255,5,1,False,False,2,3,Robinson,2,51,Fulham,Robinson,4,1,4,False,Robinson,5.1,,0,1977827
+336,6,1,False,False,3,3,Szoboszlai,3,63,Liverpool,Szoboszlai,6,1,6,False,Szoboszlai,6.5,6.5,2,1977827
+366,7,1,False,False,3,3,B.Fernandes,3,83,Man Utd,B.Fernandes,2,1,2,False,B.Fernandes,8.3,8.4,0,1977827
+182,8,1,False,False,3,3,Palmer,3,111,Chelsea,Palmer,6,1,6,False,Palmer,11.1,,0,1977827
+328,9,1,False,False,3,3,M.Salah,3,137,Liverpool,M.Salah,17,1,17,False,M.Salah,13.7,,0,1977827
+351,10,2,True,False,4,3,Haaland,4,147,Man City,Haaland,17,2,34,False,Haaland,14.7,14.8,0,1977827
+148,11,1,False,False,4,3,Welbeck,4,55,Brighton,Welbeck,2,1,2,False,Welbeck,5.5,5.7,2,1977827
+154,12,0,False,False,1,3,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,1977827
+301,13,0,False,False,2,3,Okoli,2,40,Leicester,Okoli,0,0,0,True,Okoli,4.0,4.0,0,1977827
+292,14,0,False,False,3,3,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1977827
+286,15,0,False,False,4,3,Cannon,4,45,Leicester,Cannon,0,0,0,True,Cannon,4.5,4.5,0,1977827
+235,1,1,False,True,1,4,Pickford,1,51,Everton,Pickford,2,1,2,False,Pickford,5.1,4.9,0,1575231
+326,2,1,False,False,2,4,Konaté,2,52,Liverpool,Konaté,2,1,2,False,Konaté,5.2,5.1,0,1575231
+369,3,1,False,False,2,4,Dalot,2,50,Man Utd,Dalot,11,1,11,False,Dalot,5.0,5.0,4,1575231
+505,4,1,False,False,2,4,Udogie,2,48,Spurs,Udogie,1,1,1,False,Udogie,4.8,4.9,0,1575231
+255,5,1,False,False,2,4,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,1575231
+392,6,1,False,False,3,4,Barnes,3,59,Newcastle,Barnes,8,1,8,False,Barnes,6.4,6.2,4,1575231
+327,7,1,False,False,3,4,Luis Díaz,3,75,Liverpool,Luis Díaz,3,1,3,False,Luis Díaz,7.6,7.5,21,1575231
+182,8,1,False,False,3,4,Palmer,3,111,Chelsea,Palmer,3,1,3,False,Palmer,11.1,,0,1575231
+328,9,1,False,False,3,4,M.Salah,3,137,Liverpool,M.Salah,2,1,2,False,M.Salah,13.7,,0,1575231
+351,10,2,True,False,4,4,Haaland,4,147,Man City,Haaland,13,2,26,False,Haaland,14.7,14.8,0,1575231
+148,11,1,False,False,4,4,Welbeck,4,55,Brighton,Welbeck,2,1,2,False,Welbeck,5.5,5.7,2,1575231
+154,12,0,False,False,1,4,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,1575231
+301,13,0,False,False,2,4,Okoli,2,40,Leicester,Okoli,1,0,0,True,Okoli,4.0,4.0,0,1575231
+292,14,0,False,False,3,4,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1575231
+286,15,0,False,False,4,4,Cannon,4,45,Leicester,Cannon,0,0,0,True,Cannon,4.5,4.5,0,1575231
+185,1,1,False,False,1,5,Sánchez,1,46,Chelsea,Sánchez,10,1,10,False,Sánchez,4.5,4.6,5,375837
+326,2,1,False,False,2,5,Konaté,2,52,Liverpool,Konaté,8,1,8,False,Konaté,5.2,5.1,0,375837
+369,3,1,False,False,2,5,Dalot,2,50,Man Utd,Dalot,9,1,9,False,Dalot,5.0,5.0,4,375837
+505,4,1,False,False,2,5,Udogie,2,48,Spurs,Udogie,2,1,2,False,Udogie,4.8,4.9,0,375837
+255,5,1,False,False,2,5,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,375837
+392,6,1,False,False,3,5,Barnes,3,59,Newcastle,Barnes,10,1,10,False,Barnes,6.4,6.2,4,375837
+327,7,1,False,False,3,5,Luis Díaz,3,75,Liverpool,Luis Díaz,16,1,16,False,Luis Díaz,7.6,7.5,21,375837
+182,8,1,False,False,3,5,Palmer,3,111,Chelsea,Palmer,8,1,8,False,Palmer,11.1,,0,375837
+328,9,2,True,False,3,5,M.Salah,3,137,Liverpool,M.Salah,6,2,12,False,M.Salah,13.7,,0,375837
+148,10,1,False,False,4,5,Welbeck,4,55,Brighton,Welbeck,6,1,6,False,Welbeck,5.5,5.7,2,375837
+351,11,1,False,True,4,5,Haaland,4,147,Man City,Haaland,9,1,9,False,Haaland,14.7,14.8,0,375837
+154,12,0,False,False,1,5,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,375837
+301,13,0,False,False,2,5,Okoli,2,40,Leicester,Okoli,2,0,0,True,Okoli,4.0,4.0,0,375837
+292,14,0,False,False,3,5,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,375837
+252,15,0,False,False,4,5,Raúl,4,56,Fulham,Raúl,6,0,0,True,Raúl,5.4,,5,375837
+185,1,1,False,False,1,6,Sánchez,1,46,Chelsea,Sánchez,2,1,2,False,Sánchez,4.5,4.6,5,226169
+326,2,1,False,False,2,6,Konaté,2,52,Liverpool,Konaté,7,1,7,False,Konaté,5.2,5.1,0,226169
+369,3,1,False,False,2,6,Dalot,2,50,Man Utd,Dalot,0,1,0,False,Dalot,5.0,5.0,4,226169
+505,4,1,False,False,2,6,Udogie,2,48,Spurs,Udogie,1,1,1,False,Udogie,4.8,4.9,0,226169
+255,5,1,False,False,2,6,Robinson,2,51,Fulham,Robinson,7,1,7,False,Robinson,5.1,,0,226169
+392,6,1,False,False,3,6,Barnes,3,59,Newcastle,Barnes,2,1,2,False,Barnes,6.4,6.2,4,226169
+327,7,1,False,False,3,6,Luis Díaz,3,75,Liverpool,Luis Díaz,2,1,2,False,Luis Díaz,7.6,7.5,21,226169
+182,8,1,False,False,3,6,Palmer,3,111,Chelsea,Palmer,25,1,25,False,Palmer,11.1,,0,226169
+328,9,1,False,True,3,6,M.Salah,3,137,Liverpool,M.Salah,10,1,10,False,M.Salah,13.7,,0,226169
+148,10,1,False,False,4,6,Welbeck,4,55,Brighton,Welbeck,2,1,2,False,Welbeck,5.5,5.7,2,226169
+351,11,2,True,False,4,6,Haaland,4,147,Man City,Haaland,2,2,4,False,Haaland,14.7,14.8,0,226169
+154,12,0,False,False,1,6,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,226169
+301,13,0,False,False,2,6,Okoli,2,40,Leicester,Okoli,1,0,0,True,Okoli,4.0,4.0,0,226169
+292,14,0,False,False,3,6,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,226169
+252,15,0,False,False,4,6,Raúl,4,56,Fulham,Raúl,9,0,0,True,Raúl,5.4,,5,226169
+185,1,1,False,False,1,7,Sánchez,1,46,Chelsea,Sánchez,4,1,4,False,Sánchez,4.5,4.6,5,365011
+326,2,1,False,False,2,7,Konaté,2,52,Liverpool,Konaté,6,1,6,False,Konaté,5.2,5.1,0,365011
+369,3,1,False,False,2,7,Dalot,2,50,Man Utd,Dalot,6,1,6,False,Dalot,5.0,5.0,4,365011
+505,4,1,False,False,2,7,Udogie,2,48,Spurs,Udogie,0,1,0,False,Udogie,4.8,4.9,0,365011
+255,5,1,False,False,2,7,Robinson,2,51,Fulham,Robinson,1,1,1,False,Robinson,5.1,,0,365011
+392,6,1,False,False,3,7,Barnes,3,59,Newcastle,Barnes,3,1,3,False,Barnes,6.4,6.2,4,365011
+327,7,1,False,False,3,7,Luis Díaz,3,75,Liverpool,Luis Díaz,1,1,1,False,Luis Díaz,7.6,7.5,21,365011
+182,8,1,False,False,3,7,Palmer,3,111,Chelsea,Palmer,6,1,6,False,Palmer,11.1,,0,365011
+328,9,1,False,True,3,7,M.Salah,3,137,Liverpool,M.Salah,3,1,3,False,M.Salah,13.7,,0,365011
+148,10,1,False,False,4,7,Welbeck,4,55,Brighton,Welbeck,8,1,8,False,Welbeck,5.5,5.7,2,365011
+351,11,2,True,False,4,7,Haaland,4,147,Man City,Haaland,2,2,4,False,Haaland,14.7,14.8,0,365011
+154,12,0,False,False,1,7,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,365011
+301,13,0,False,False,2,7,Okoli,2,40,Leicester,Okoli,7,0,0,True,Okoli,4.0,4.0,0,365011
+292,14,0,False,False,3,7,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,365011
+252,15,0,False,False,4,7,Raúl,4,56,Fulham,Raúl,5,0,0,True,Raúl,5.4,,5,365011
+185,1,1,False,False,1,8,Sánchez,1,46,Chelsea,Sánchez,2,1,2,False,Sánchez,4.5,4.6,5,397136
+301,2,1,False,False,2,8,Okoli,2,40,Leicester,Okoli,1,1,1,False,Okoli,4.0,4.0,0,397136
+369,3,1,False,False,2,8,Dalot,2,50,Man Utd,Dalot,1,1,1,False,Dalot,5.0,5.0,4,397136
+505,4,1,False,False,2,8,Udogie,2,48,Spurs,Udogie,5,1,5,False,Udogie,4.8,4.9,0,397136
+255,5,1,False,False,2,8,Robinson,2,51,Fulham,Robinson,1,1,1,False,Robinson,5.1,,0,397136
+392,6,1,False,False,3,8,Barnes,3,59,Newcastle,Barnes,1,1,1,False,Barnes,6.4,6.2,4,397136
+327,7,1,False,False,3,8,Luis Díaz,3,75,Liverpool,Luis Díaz,1,1,1,False,Luis Díaz,7.6,7.5,21,397136
+182,8,1,False,False,3,8,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,397136
+328,9,1,False,True,3,8,M.Salah,3,137,Liverpool,M.Salah,12,1,12,False,M.Salah,13.7,,0,397136
+148,10,1,False,False,4,8,Welbeck,4,55,Brighton,Welbeck,9,1,9,False,Welbeck,5.5,5.7,2,397136
+351,11,2,True,False,4,8,Haaland,4,147,Man City,Haaland,2,2,4,False,Haaland,14.7,14.8,0,397136
+154,12,0,False,False,1,8,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,397136
+326,13,0,False,False,2,8,Konaté,2,52,Liverpool,Konaté,1,0,0,True,Konaté,5.2,5.1,0,397136
+292,14,0,False,False,3,8,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,397136
+252,15,0,False,False,4,8,Raúl,4,56,Fulham,Raúl,7,0,0,True,Raúl,5.4,,5,397136
+185,1,1,False,False,1,9,Sánchez,1,46,Chelsea,Sánchez,1,1,1,False,Sánchez,4.5,4.6,5,657378
+301,2,1,False,False,2,9,Okoli,2,40,Leicester,Okoli,1,1,1,False,Okoli,4.0,4.0,0,657378
+369,3,1,False,False,2,9,Dalot,2,50,Man Utd,Dalot,1,1,1,False,Dalot,5.0,5.0,4,657378
+505,4,1,False,False,2,9,Udogie,2,48,Spurs,Udogie,2,1,2,False,Udogie,4.8,4.9,0,657378
+255,5,1,False,False,2,9,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,657378
+392,6,1,False,False,3,9,Barnes,3,59,Newcastle,Barnes,2,1,2,False,Barnes,6.4,6.2,4,657378
+327,7,1,False,False,3,9,Luis Díaz,3,75,Liverpool,Luis Díaz,5,1,5,False,Luis Díaz,7.6,7.5,21,657378
+182,8,1,False,False,3,9,Palmer,3,111,Chelsea,Palmer,10,1,10,False,Palmer,11.1,,0,657378
+328,9,1,False,True,3,9,M.Salah,3,137,Liverpool,M.Salah,10,1,10,False,M.Salah,13.7,,0,657378
+148,10,1,False,False,4,9,Welbeck,4,55,Brighton,Welbeck,7,1,7,False,Welbeck,5.5,5.7,2,657378
+351,11,2,True,False,4,9,Haaland,4,147,Man City,Haaland,6,2,12,False,Haaland,14.7,14.8,0,657378
+154,12,0,False,False,1,9,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,657378
+326,13,0,False,False,2,9,Konaté,2,52,Liverpool,Konaté,1,0,0,True,Konaté,5.2,5.1,0,657378
+292,14,0,False,False,3,9,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,657378
+252,15,0,False,False,4,9,Raúl,4,56,Fulham,Raúl,2,0,0,True,Raúl,5.4,,5,657378
+185,1,1,False,False,1,10,Sánchez,1,46,Chelsea,Sánchez,3,1,3,False,Sánchez,4.5,4.6,5,761389
+159,2,1,False,False,2,10,Chalobah,2,44,Chelsea,Chalobah,7,1,7,False,Chalobah,4.4,,10,761389
+326,3,1,False,False,2,10,Konaté,2,52,Liverpool,Konaté,1,1,1,False,Konaté,5.2,5.1,0,761389
+255,4,1,False,False,2,10,Robinson,2,51,Fulham,Robinson,6,1,6,False,Robinson,5.1,,0,761389
+392,5,1,False,False,3,10,Barnes,3,59,Newcastle,Barnes,1,1,1,False,Barnes,6.4,6.2,4,761389
+327,6,1,False,False,3,10,Luis Díaz,3,75,Liverpool,Luis Díaz,1,1,1,False,Luis Díaz,7.6,7.5,21,761389
+182,7,1,False,False,3,10,Palmer,3,111,Chelsea,Palmer,3,1,3,False,Palmer,11.1,,0,761389
+328,8,1,False,True,3,10,M.Salah,3,137,Liverpool,M.Salah,9,1,9,False,M.Salah,13.7,,0,761389
+252,9,1,False,False,4,10,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,761389
+351,10,2,True,False,4,10,Haaland,4,147,Man City,Haaland,2,2,4,False,Haaland,14.7,14.8,0,761389
+148,11,1,False,False,4,10,Welbeck,4,55,Brighton,Welbeck,5,1,5,False,Welbeck,5.5,5.7,2,761389
+154,12,0,False,False,1,10,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,761389
+505,13,0,False,False,2,10,Udogie,2,48,Spurs,Udogie,2,0,0,True,Udogie,4.8,4.9,0,761389
+369,14,0,False,False,2,10,Dalot,2,50,Man Utd,Dalot,1,0,0,True,Dalot,5.0,5.0,4,761389
+292,15,0,False,False,3,10,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,761389
+185,1,1,False,False,1,11,Sánchez,1,46,Chelsea,Sánchez,2,1,2,False,Sánchez,4.5,4.6,5,747984
+159,2,1,False,False,2,11,Chalobah,2,44,Chelsea,Chalobah,1,1,1,False,Chalobah,4.4,,10,747984
+326,3,1,False,False,2,11,Konaté,2,52,Liverpool,Konaté,6,1,6,False,Konaté,5.2,5.1,0,747984
+255,4,1,False,False,2,11,Robinson,2,51,Fulham,Robinson,6,1,6,False,Robinson,5.1,,0,747984
+392,5,1,False,False,3,11,Barnes,3,59,Newcastle,Barnes,7,1,7,False,Barnes,6.4,6.2,4,747984
+327,6,1,False,False,3,11,Luis Díaz,3,75,Liverpool,Luis Díaz,3,1,3,False,Luis Díaz,7.6,7.5,21,747984
+182,7,1,False,False,3,11,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,747984
+328,8,1,False,True,3,11,M.Salah,3,137,Liverpool,M.Salah,14,1,14,False,M.Salah,13.7,,0,747984
+252,9,1,False,False,4,11,Raúl,4,56,Fulham,Raúl,5,1,5,False,Raúl,5.4,,5,747984
+351,10,2,True,False,4,11,Haaland,4,147,Man City,Haaland,5,2,10,False,Haaland,14.7,14.8,0,747984
+148,11,1,False,False,4,11,Welbeck,4,55,Brighton,Welbeck,2,1,2,False,Welbeck,5.5,5.7,2,747984
+154,12,0,False,False,1,11,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,747984
+505,13,0,False,False,2,11,Udogie,2,48,Spurs,Udogie,1,0,0,True,Udogie,4.8,4.9,0,747984
+369,14,0,False,False,2,11,Dalot,2,50,Man Utd,Dalot,1,0,0,True,Dalot,5.0,5.0,4,747984
+292,15,0,False,False,3,11,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,747984
+185,1,1,False,False,1,12,Sánchez,1,46,Chelsea,Sánchez,1,1,1,False,Sánchez,4.5,4.6,5,1771029
+159,2,1,False,False,2,12,Chalobah,2,44,Chelsea,Chalobah,0,1,0,False,Chalobah,4.4,,10,1771029
+326,3,1,False,False,2,12,Konaté,2,52,Liverpool,Konaté,0,1,0,False,Konaté,5.2,5.1,0,1771029
+255,4,1,False,False,2,12,Robinson,2,51,Fulham,Robinson,0,1,0,False,Robinson,5.1,,0,1771029
+392,5,1,False,False,3,12,Barnes,3,59,Newcastle,Barnes,1,1,1,False,Barnes,6.4,6.2,4,1771029
+327,6,1,False,False,3,12,Luis Díaz,3,75,Liverpool,Luis Díaz,1,1,1,False,Luis Díaz,7.6,7.5,21,1771029
+182,7,1,False,False,3,12,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,1771029
+328,8,1,False,True,3,12,M.Salah,3,137,Liverpool,M.Salah,13,1,13,False,M.Salah,13.7,,0,1771029
+252,9,1,False,False,4,12,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,1771029
+351,10,2,True,False,4,12,Haaland,4,147,Man City,Haaland,2,2,4,False,Haaland,14.7,14.8,0,1771029
+148,11,1,False,False,4,12,Welbeck,4,55,Brighton,Welbeck,2,1,2,False,Welbeck,5.5,5.7,2,1771029
+154,12,0,False,False,1,12,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,1771029
+505,13,0,False,False,2,12,Udogie,2,48,Spurs,Udogie,6,0,0,True,Udogie,4.8,4.9,0,1771029
+369,14,0,False,False,2,12,Dalot,2,50,Man Utd,Dalot,2,0,0,True,Dalot,5.0,5.0,4,1771029
+292,15,0,False,False,3,12,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1771029
+185,1,1,False,False,1,13,Sánchez,1,46,Chelsea,Sánchez,7,1,7,False,Sánchez,4.5,4.6,5,1668885
+255,2,1,False,False,2,13,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,1668885
+369,3,1,False,False,2,13,Dalot,2,50,Man Utd,Dalot,6,1,6,False,Dalot,5.0,5.0,4,1668885
+505,4,1,False,False,2,13,Udogie,2,48,Spurs,Udogie,2,1,2,False,Udogie,4.8,4.9,0,1668885
+392,5,1,False,False,3,13,Barnes,3,59,Newcastle,Barnes,2,1,2,False,Barnes,6.4,6.2,4,1668885
+327,6,1,False,False,3,13,Luis Díaz,3,75,Liverpool,Luis Díaz,6,1,6,False,Luis Díaz,7.6,7.5,21,1668885
+182,7,1,False,False,3,13,Palmer,3,111,Chelsea,Palmer,14,1,14,False,Palmer,11.1,,0,1668885
+328,8,2,True,False,3,13,M.Salah,3,137,Liverpool,M.Salah,13,2,26,False,M.Salah,13.7,,0,1668885
+148,9,1,False,False,4,13,Welbeck,4,55,Brighton,Welbeck,2,1,2,False,Welbeck,5.5,5.7,2,1668885
+252,10,1,False,False,4,13,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,1668885
+351,11,1,False,True,4,13,Haaland,4,147,Man City,Haaland,2,1,2,False,Haaland,14.7,14.8,0,1668885
+154,12,0,False,False,1,13,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,1668885
+326,13,0,False,False,2,13,Konaté,2,52,Liverpool,Konaté,0,0,0,True,Konaté,5.2,5.1,0,1668885
+159,14,0,False,False,2,13,Chalobah,2,44,Chelsea,Chalobah,2,0,0,True,Chalobah,4.4,,10,1668885
+292,15,0,False,False,3,13,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1668885
+185,1,1,False,False,1,14,Sánchez,1,46,Chelsea,Sánchez,0,1,0,False,Sánchez,4.5,4.6,5,1607117
+255,2,1,False,False,2,14,Robinson,2,51,Fulham,Robinson,6,1,6,False,Robinson,5.1,,0,1607117
+369,3,1,False,False,2,14,Dalot,2,50,Man Utd,Dalot,1,1,1,False,Dalot,5.0,5.0,4,1607117
+505,4,1,False,False,2,14,Udogie,2,48,Spurs,Udogie,2,1,2,False,Udogie,4.8,4.9,0,1607117
+159,5,1,False,False,2,14,Chalobah,2,44,Chelsea,Chalobah,6,1,6,False,Chalobah,4.4,,10,1607117
+392,6,1,False,False,3,14,Barnes,3,59,Newcastle,Barnes,1,1,1,False,Barnes,6.4,6.2,4,1607117
+327,7,1,False,False,3,14,Luis Díaz,3,75,Liverpool,Luis Díaz,1,1,1,False,Luis Díaz,7.6,7.5,21,1607117
+182,8,1,False,False,3,14,Palmer,3,111,Chelsea,Palmer,7,1,7,False,Palmer,11.1,,0,1607117
+328,9,2,True,False,3,14,M.Salah,3,137,Liverpool,M.Salah,18,2,36,False,M.Salah,13.7,,0,1607117
+252,10,1,False,False,4,14,Raúl,4,56,Fulham,Raúl,1,1,1,False,Raúl,5.4,,5,1607117
+351,11,1,False,True,4,14,Haaland,4,147,Man City,Haaland,5,1,5,False,Haaland,14.7,14.8,0,1607117
+154,12,0,False,False,1,14,Bergström,1,39,Chelsea,Bergström,0,0,0,True,Bergström,3.9,4.0,0,1607117
+326,13,0,False,False,2,14,Konaté,2,52,Liverpool,Konaté,0,0,0,True,Konaté,5.2,5.1,0,1607117
+148,14,0,False,False,4,14,Welbeck,4,55,Brighton,Welbeck,0,0,0,True,Welbeck,5.5,5.7,2,1607117
+292,15,0,False,False,3,14,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1607117
+185,1,1,False,False,1,15,Sánchez,1,46,Chelsea,Sánchez,0,1,0,False,Sánchez,4.5,4.6,5,1615416
+422,2,1,False,False,2,15,Aina,2,54,Nott'm Forest,Aina,1,1,1,False,Aina,4.9,,15,1615416
+369,3,1,False,False,2,15,Dalot,2,50,Man Utd,Dalot,1,1,1,False,Dalot,5.0,5.0,4,1615416
+505,4,1,False,False,2,15,Udogie,2,48,Spurs,Udogie,0,1,0,False,Udogie,4.8,4.9,0,1615416
+255,5,1,False,False,2,15,Robinson,2,51,Fulham,Robinson,1,1,1,False,Robinson,5.1,,0,1615416
+392,6,1,False,False,3,15,Barnes,3,59,Newcastle,Barnes,7,1,7,False,Barnes,6.4,6.2,4,1615416
+560,7,1,False,False,3,15,Neto,3,62,Chelsea,Neto,1,1,1,False,Neto,6.2,6.2,15,1615416
+182,8,1,False,False,3,15,Palmer,3,111,Chelsea,Palmer,18,1,18,False,Palmer,11.1,,0,1615416
+129,9,1,False,False,4,15,João Pedro,4,54,Brighton,João Pedro,2,1,2,False,João Pedro,5.9,5.5,15,1615416
+252,10,1,False,False,4,15,Raúl,4,56,Fulham,Raúl,8,1,8,False,Raúl,5.4,,5,1615416
+351,11,2,True,False,4,15,Haaland,4,147,Man City,Haaland,7,2,14,False,Haaland,14.7,14.8,0,1615416
+521,12,0,False,False,1,15,Fabianski,1,41,West Ham,Fabianski,2,0,0,True,Fabianski,4.1,4.1,15,1615416
+328,13,0,False,True,3,15,M.Salah,3,137,Liverpool,M.Salah,0,0,0,True,M.Salah,13.7,,0,1615416
+159,14,0,False,False,2,15,Chalobah,2,44,Chelsea,Chalobah,1,0,0,True,Chalobah,4.4,,10,1615416
+292,15,0,False,False,3,15,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1615416
+185,1,1,False,False,1,16,Sánchez,1,46,Chelsea,Sánchez,3,1,3,False,Sánchez,4.5,4.6,5,2153633
+369,2,1,False,False,2,16,Dalot,2,50,Man Utd,Dalot,2,1,2,False,Dalot,5.0,5.0,4,2153633
+422,3,1,False,False,2,16,Aina,2,54,Nott'm Forest,Aina,2,1,2,False,Aina,4.9,,15,2153633
+505,4,1,False,False,2,16,Udogie,2,48,Spurs,Udogie,1,1,1,False,Udogie,4.8,4.9,0,2153633
+159,5,1,False,False,2,16,Chalobah,2,44,Chelsea,Chalobah,9,1,9,False,Chalobah,4.4,,10,2153633
+392,6,1,False,False,3,16,Barnes,3,59,Newcastle,Barnes,1,1,1,False,Barnes,6.4,6.2,4,2153633
+182,7,1,False,False,3,16,Palmer,3,111,Chelsea,Palmer,3,1,3,False,Palmer,11.1,,0,2153633
+328,8,1,False,True,3,16,M.Salah,3,137,Liverpool,M.Salah,5,1,5,False,M.Salah,13.7,,0,2153633
+252,9,1,False,False,4,16,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,2153633
+129,10,1,False,False,4,16,João Pedro,4,54,Brighton,João Pedro,2,1,2,False,João Pedro,5.9,5.5,15,2153633
+351,11,2,True,False,4,16,Haaland,4,147,Man City,Haaland,2,2,4,False,Haaland,14.7,14.8,0,2153633
+521,12,0,False,False,1,16,Fabianski,1,41,West Ham,Fabianski,4,0,0,True,Fabianski,4.1,4.1,15,2153633
+255,13,0,False,False,2,16,Robinson,2,51,Fulham,Robinson,6,0,0,True,Robinson,5.1,,0,2153633
+560,14,0,False,False,3,16,Neto,3,62,Chelsea,Neto,0,0,0,True,Neto,6.2,6.2,15,2153633
+292,15,0,False,False,3,16,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,2153633
+185,1,1,False,False,1,17,Sánchez,1,46,Chelsea,Sánchez,9,1,9,False,Sánchez,4.5,4.6,5,1672124
+422,2,1,False,False,2,17,Aina,2,54,Nott'm Forest,Aina,15,1,15,False,Aina,4.9,,15,1672124
+369,3,1,False,False,2,17,Dalot,2,50,Man Utd,Dalot,1,1,1,False,Dalot,5.0,5.0,4,1672124
+255,4,1,False,False,2,17,Robinson,2,51,Fulham,Robinson,6,1,6,False,Robinson,5.1,,0,1672124
+514,5,1,False,False,3,17,Bowen,3,73,West Ham,Bowen,6,1,6,False,Bowen,7.3,7.5,0,1672124
+560,6,1,False,False,3,17,Neto,3,62,Chelsea,Neto,3,1,3,False,Neto,6.2,6.2,15,1672124
+182,7,1,False,False,3,17,Palmer,3,111,Chelsea,Palmer,3,1,3,False,Palmer,11.1,,0,1672124
+328,8,2,True,False,3,17,M.Salah,3,137,Liverpool,M.Salah,21,2,42,False,M.Salah,13.7,,0,1672124
+129,9,1,False,False,4,17,João Pedro,4,54,Brighton,João Pedro,2,1,2,False,João Pedro,5.9,5.5,15,1672124
+252,10,1,False,False,4,17,Raúl,4,56,Fulham,Raúl,0,1,0,False,Raúl,5.4,,5,1672124
+351,11,1,False,True,4,17,Haaland,4,147,Man City,Haaland,2,1,2,False,Haaland,14.7,14.8,0,1672124
+521,12,0,False,False,1,17,Fabianski,1,41,West Ham,Fabianski,3,0,0,True,Fabianski,4.1,4.1,15,1672124
+159,13,0,False,False,2,17,Chalobah,2,44,Chelsea,Chalobah,0,0,0,True,Chalobah,4.4,,10,1672124
+505,14,0,False,False,2,17,Udogie,2,48,Spurs,Udogie,0,0,0,True,Udogie,4.8,4.9,0,1672124
+292,15,0,False,False,3,17,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1672124
+185,1,1,False,False,1,18,Sánchez,1,46,Chelsea,Sánchez,2,1,2,False,Sánchez,4.5,4.6,5,1804521
+369,2,1,False,False,2,18,Dalot,2,50,Man Utd,Dalot,1,1,1,False,Dalot,5.0,5.0,4,1804521
+422,3,1,False,False,2,18,Aina,2,54,Nott'm Forest,Aina,6,1,6,False,Aina,4.9,,15,1804521
+255,4,1,False,False,2,18,Robinson,2,51,Fulham,Robinson,1,1,1,False,Robinson,5.1,,0,1804521
+159,5,1,False,False,2,18,Chalobah,2,44,Chelsea,Chalobah,6,1,6,False,Chalobah,4.4,,10,1804521
+514,6,1,False,False,3,18,Bowen,3,73,West Ham,Bowen,8,1,8,False,Bowen,7.3,7.5,0,1804521
+182,7,1,False,False,3,18,Palmer,3,111,Chelsea,Palmer,10,1,10,False,Palmer,11.1,,0,1804521
+328,8,2,True,False,3,18,M.Salah,3,137,Liverpool,M.Salah,9,2,18,False,M.Salah,13.7,,0,1804521
+560,9,1,False,False,3,18,Neto,3,62,Chelsea,Neto,1,1,1,False,Neto,6.2,6.2,15,1804521
+351,10,1,False,True,4,18,Haaland,4,147,Man City,Haaland,0,1,0,False,Haaland,14.7,14.8,0,1804521
+252,11,1,False,False,4,18,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,1804521
+521,12,0,False,False,1,18,Fabianski,1,41,West Ham,Fabianski,2,0,0,True,Fabianski,4.1,4.1,15,1804521
+129,13,0,False,False,4,18,João Pedro,4,54,Brighton,João Pedro,2,0,0,True,João Pedro,5.9,5.5,15,1804521
+505,14,0,False,False,2,18,Udogie,2,48,Spurs,Udogie,2,0,0,True,Udogie,4.8,4.9,0,1804521
+292,15,0,False,False,3,18,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1804521
+185,1,1,False,False,1,19,Sánchez,1,46,Chelsea,Sánchez,0,1,0,False,Sánchez,4.5,4.6,5,1322926
+311,2,1,False,False,2,19,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,15,1,15,False,Alexander-Arnold,7.1,,19,1322926
+422,3,1,False,False,2,19,Aina,2,54,Nott'm Forest,Aina,8,1,8,False,Aina,4.9,,15,1322926
+255,4,1,False,False,2,19,Robinson,2,51,Fulham,Robinson,4,1,4,False,Robinson,5.1,,0,1322926
+159,5,1,False,False,2,19,Chalobah,2,44,Chelsea,Chalobah,10,1,10,False,Chalobah,4.4,,10,1322926
+514,6,1,False,False,3,19,Bowen,3,73,West Ham,Bowen,1,1,1,False,Bowen,7.3,7.5,0,1322926
+182,7,1,False,False,3,19,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,1322926
+328,8,2,True,False,3,19,M.Salah,3,137,Liverpool,M.Salah,16,2,32,False,M.Salah,13.7,,0,1322926
+99,9,1,False,False,3,19,Mbeumo,3,80,Brentford,Mbeumo,7,1,7,False,Mbeumo,7.6,,19,1322926
+401,10,1,False,True,4,19,Isak,4,95,Newcastle,Isak,7,1,7,False,Isak,9.0,,19,1322926
+252,11,1,False,False,4,19,Raúl,4,56,Fulham,Raúl,9,1,9,False,Raúl,5.4,,5,1322926
+521,12,0,False,False,1,19,Fabianski,1,41,West Ham,Fabianski,0,0,0,True,Fabianski,4.1,4.1,15,1322926
+129,13,0,False,False,4,19,João Pedro,4,54,Brighton,João Pedro,9,0,0,True,João Pedro,5.9,5.5,15,1322926
+505,14,0,False,False,2,19,Udogie,2,48,Spurs,Udogie,1,0,0,True,Udogie,4.8,4.9,0,1322926
+292,15,0,False,False,3,19,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1322926
+185,1,1,False,False,1,20,Sánchez,1,46,Chelsea,Sánchez,3,1,3,False,Sánchez,4.5,4.6,5,993351
+422,2,1,False,False,2,20,Aina,2,54,Nott'm Forest,Aina,6,1,6,False,Aina,4.9,,15,993351
+311,3,1,False,False,2,20,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,0,1,0,False,Alexander-Arnold,7.1,,19,993351
+255,4,1,False,False,2,20,Robinson,2,51,Fulham,Robinson,1,1,1,False,Robinson,5.1,,0,993351
+514,5,1,False,False,3,20,Bowen,3,73,West Ham,Bowen,0,1,0,False,Bowen,7.3,7.5,0,993351
+99,6,1,False,False,3,20,Mbeumo,3,80,Brentford,Mbeumo,19,1,19,False,Mbeumo,7.6,,19,993351
+182,7,1,False,False,3,20,Palmer,3,111,Chelsea,Palmer,10,1,10,False,Palmer,11.1,,0,993351
+328,8,2,True,False,3,20,M.Salah,3,137,Liverpool,M.Salah,7,2,14,False,M.Salah,13.7,,0,993351
+129,9,1,False,False,4,20,João Pedro,4,54,Brighton,João Pedro,9,1,9,False,João Pedro,5.9,5.5,15,993351
+252,10,1,False,False,4,20,Raúl,4,56,Fulham,Raúl,13,1,13,False,Raúl,5.4,,5,993351
+401,11,1,False,True,4,20,Isak,4,95,Newcastle,Isak,7,1,7,False,Isak,9.0,,19,993351
+521,12,0,False,False,1,20,Fabianski,1,41,West Ham,Fabianski,0,0,0,True,Fabianski,4.1,4.1,15,993351
+159,13,0,False,False,2,20,Chalobah,2,44,Chelsea,Chalobah,0,0,0,True,Chalobah,4.4,,10,993351
+505,14,0,False,False,2,20,Udogie,2,48,Spurs,Udogie,0,0,0,True,Udogie,4.8,4.9,0,993351
+292,15,0,False,False,3,20,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,993351
+185,1,1,False,False,1,21,Sánchez,1,46,Chelsea,Sánchez,1,1,1,False,Sánchez,4.5,4.6,5,1387745
+311,2,1,False,False,2,21,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,2,1,2,False,Alexander-Arnold,7.1,,19,1387745
+3,3,1,False,False,2,21,Gabriel,2,63,Arsenal,Gabriel,1,1,1,False,Gabriel,6.4,,21,1387745
+422,4,1,False,False,2,21,Aina,2,54,Nott'm Forest,Aina,2,1,2,False,Aina,4.9,,15,1387745
+255,5,1,False,False,2,21,Robinson,2,51,Fulham,Robinson,7,1,7,False,Robinson,5.1,,0,1387745
+327,6,1,False,False,3,21,Luis Díaz,3,75,Liverpool,Luis Díaz,1,1,1,False,Luis Díaz,7.6,7.5,21,1387745
+99,7,1,False,False,3,21,Mbeumo,3,80,Brentford,Mbeumo,2,1,2,False,Mbeumo,7.6,,19,1387745
+182,8,1,False,False,3,21,Palmer,3,111,Chelsea,Palmer,10,1,10,False,Palmer,11.1,,0,1387745
+328,9,2,True,False,3,21,M.Salah,3,137,Liverpool,M.Salah,2,2,4,False,M.Salah,13.7,,0,1387745
+252,10,1,False,False,4,21,Raúl,4,56,Fulham,Raúl,1,1,1,False,Raúl,5.4,,5,1387745
+401,11,1,False,True,4,21,Isak,4,95,Newcastle,Isak,16,1,16,False,Isak,9.0,,19,1387745
+396,12,0,False,False,1,21,Dúbravka,1,43,Newcastle,Dúbravka,10,0,0,True,Dúbravka,4.2,,21,1387745
+159,13,0,False,False,2,21,Chalobah,2,44,Chelsea,Chalobah,0,0,0,True,Chalobah,4.4,,10,1387745
+129,14,0,False,False,4,21,João Pedro,4,54,Brighton,João Pedro,1,0,0,True,João Pedro,5.9,5.5,15,1387745
+292,15,0,False,False,3,21,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1387745
+185,1,1,False,False,1,22,Sánchez,1,46,Chelsea,Sánchez,2,1,2,False,Sánchez,4.5,4.6,5,1471966
+311,2,1,False,False,2,22,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,11,1,11,False,Alexander-Arnold,7.1,,19,1471966
+422,3,1,False,False,2,22,Aina,2,54,Nott'm Forest,Aina,4,1,4,False,Aina,4.9,,15,1471966
+255,4,1,False,False,2,22,Robinson,2,51,Fulham,Robinson,8,1,8,False,Robinson,5.1,,0,1471966
+3,5,1,False,False,2,22,Gabriel,2,63,Arsenal,Gabriel,1,1,1,False,Gabriel,6.4,,21,1471966
+364,6,1,False,False,3,22,Amad,3,54,Man Utd,Amad,2,1,2,False,Amad,5.5,5.5,22,1471966
+182,7,1,False,False,3,22,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,1471966
+328,8,2,True,False,3,22,M.Salah,3,137,Liverpool,M.Salah,3,2,6,False,M.Salah,13.7,,0,1471966
+99,9,1,False,False,3,22,Mbeumo,3,80,Brentford,Mbeumo,2,1,2,False,Mbeumo,7.6,,19,1471966
+401,10,1,False,True,4,22,Isak,4,95,Newcastle,Isak,2,1,2,False,Isak,9.0,,19,1471966
+252,11,1,False,False,4,22,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,1471966
+396,12,0,False,False,1,22,Dúbravka,1,43,Newcastle,Dúbravka,2,0,0,True,Dúbravka,4.2,,21,1471966
+159,13,0,False,False,2,22,Chalobah,2,44,Chelsea,Chalobah,8,0,0,True,Chalobah,4.4,,10,1471966
+129,14,0,False,False,4,22,João Pedro,4,54,Brighton,João Pedro,2,0,0,True,João Pedro,5.9,5.5,15,1471966
+292,15,0,False,False,3,22,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1471966
+396,1,1,False,False,1,23,Dúbravka,1,43,Newcastle,Dúbravka,3,1,3,False,Dúbravka,4.2,,21,1484866
+311,2,1,False,False,2,23,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,5,1,5,False,Alexander-Arnold,7.1,,19,1484866
+422,3,1,False,False,2,23,Aina,2,54,Nott'm Forest,Aina,1,1,1,False,Aina,4.9,,15,1484866
+255,4,1,False,False,2,23,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,1484866
+3,5,1,False,False,2,23,Gabriel,2,63,Arsenal,Gabriel,7,1,7,False,Gabriel,6.4,,21,1484866
+364,6,1,False,False,3,23,Amad,3,54,Man Utd,Amad,3,1,3,False,Amad,5.5,5.5,22,1484866
+182,7,1,False,False,3,23,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,1484866
+328,8,2,True,False,3,23,M.Salah,3,137,Liverpool,M.Salah,8,2,16,False,M.Salah,13.7,,0,1484866
+99,9,1,False,False,3,23,Mbeumo,3,80,Brentford,Mbeumo,7,1,7,False,Mbeumo,7.6,,19,1484866
+401,10,1,False,True,4,23,Isak,4,95,Newcastle,Isak,13,1,13,False,Isak,9.0,,19,1484866
+252,11,1,False,False,4,23,Raúl,4,56,Fulham,Raúl,2,1,2,False,Raúl,5.4,,5,1484866
+185,12,0,False,False,1,23,Sánchez,1,46,Chelsea,Sánchez,2,0,0,True,Sánchez,4.5,4.6,5,1484866
+159,13,0,False,False,2,23,Chalobah,2,44,Chelsea,Chalobah,1,0,0,True,Chalobah,4.4,,10,1484866
+129,14,0,False,False,4,23,João Pedro,4,54,Brighton,João Pedro,1,0,0,True,João Pedro,5.9,5.5,15,1484866
+292,15,0,False,False,3,23,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1484866
+396,1,1,False,False,1,24,Dúbravka,1,43,Newcastle,Dúbravka,1,1,1,False,Dúbravka,4.2,,21,1839846
+311,2,1,False,False,2,24,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,7,1,7,False,Alexander-Arnold,7.1,,19,1839846
+422,3,1,False,False,2,24,Aina,2,54,Nott'm Forest,Aina,6,1,6,False,Aina,4.9,,15,1839846
+255,4,1,False,False,2,24,Robinson,2,51,Fulham,Robinson,4,1,4,False,Robinson,5.1,,0,1839846
+3,5,1,False,False,2,24,Gabriel,2,63,Arsenal,Gabriel,2,1,2,False,Gabriel,6.4,,21,1839846
+364,6,1,False,False,3,24,Amad,3,54,Man Utd,Amad,2,1,2,False,Amad,5.5,5.5,22,1839846
+182,7,1,False,False,3,24,Palmer,3,111,Chelsea,Palmer,6,1,6,False,Palmer,11.1,,0,1839846
+328,8,2,True,False,3,24,M.Salah,3,137,Liverpool,M.Salah,29,2,58,False,M.Salah,13.7,,0,1839846
+99,9,1,False,False,3,24,Mbeumo,3,80,Brentford,Mbeumo,2,1,2,False,Mbeumo,7.6,,19,1839846
+401,10,1,False,True,4,24,Isak,4,95,Newcastle,Isak,2,1,2,False,Isak,9.0,,19,1839846
+252,11,1,False,False,4,24,Raúl,4,56,Fulham,Raúl,8,1,8,False,Raúl,5.4,,5,1839846
+185,12,0,False,False,1,24,Sánchez,1,46,Chelsea,Sánchez,0,0,0,True,Sánchez,4.5,4.6,5,1839846
+159,13,0,False,False,2,24,Chalobah,2,44,Chelsea,Chalobah,1,0,0,True,Chalobah,4.4,,10,1839846
+129,14,0,False,False,4,24,João Pedro,4,54,Brighton,João Pedro,1,0,0,True,João Pedro,5.9,5.5,15,1839846
+292,15,0,False,False,3,24,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1839846
+310,1,1,False,False,1,25,A.Becker,1,55,Liverpool,A.Becker,4,1,4,False,A.Becker,5.5,,25,1951511
+422,2,1,False,False,2,25,Aina,2,54,Nott'm Forest,Aina,1,1,1,False,Aina,4.9,,15,1951511
+311,3,1,False,False,2,25,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,13,1,13,False,Alexander-Arnold,7.1,,19,1951511
+3,4,1,False,False,2,25,Gabriel,2,63,Arsenal,Gabriel,6,1,6,False,Gabriel,6.4,,21,1951511
+255,5,1,False,False,2,25,Robinson,2,51,Fulham,Robinson,2,1,2,False,Robinson,5.1,,0,1951511
+159,6,1,False,False,2,25,Chalobah,2,44,Chelsea,Chalobah,1,1,1,False,Chalobah,4.4,,10,1951511
+99,7,1,False,False,3,25,Mbeumo,3,80,Brentford,Mbeumo,3,1,3,False,Mbeumo,7.6,,19,1951511
+182,8,1,False,False,3,25,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,1951511
+328,9,2,True,False,3,25,M.Salah,3,137,Liverpool,M.Salah,20,2,40,False,M.Salah,13.7,,0,1951511
+447,10,1,False,False,4,25,Wood,4,72,Nott'm Forest,Wood,9,1,9,False,Wood,7.0,,25,1951511
+401,11,1,False,True,4,25,Isak,4,95,Newcastle,Isak,2,1,2,False,Isak,9.0,,19,1951511
+396,12,0,False,False,1,25,Dúbravka,1,43,Newcastle,Dúbravka,1,0,0,True,Dúbravka,4.2,,21,1951511
+364,13,0,False,False,3,25,Amad,3,54,Man Utd,Amad,0,0,0,True,Amad,5.5,5.5,22,1951511
+252,14,0,False,False,4,25,Raúl,4,56,Fulham,Raúl,5,0,0,True,Raúl,5.4,,5,1951511
+292,15,0,False,False,3,25,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1951511
+310,1,1,False,False,1,26,A.Becker,1,55,Liverpool,A.Becker,8,1,8,False,A.Becker,5.5,,25,1841820
+311,2,1,False,False,2,26,Alexander-Arnold,2,74,Liverpool,Alexander-Arnold,6,1,6,False,Alexander-Arnold,7.1,,19,1841820
+422,3,1,False,False,2,26,Aina,2,54,Nott'm Forest,Aina,0,1,0,False,Aina,4.9,,15,1841820
+255,4,1,False,False,2,26,Robinson,2,51,Fulham,Robinson,1,1,1,False,Robinson,5.1,,0,1841820
+3,5,1,False,False,2,26,Gabriel,2,63,Arsenal,Gabriel,2,1,2,False,Gabriel,6.4,,21,1841820
+432,6,1,False,False,3,26,Elanga,3,53,Nott'm Forest,Elanga,2,1,2,False,Elanga,5.3,,26,1841820
+182,7,1,False,False,3,26,Palmer,3,111,Chelsea,Palmer,2,1,2,False,Palmer,11.1,,0,1841820
+328,8,2,True,False,3,26,M.Salah,3,137,Liverpool,M.Salah,14,2,28,False,M.Salah,13.7,,0,1841820
+99,9,1,False,False,3,26,Mbeumo,3,80,Brentford,Mbeumo,14,1,14,False,Mbeumo,7.6,,19,1841820
+401,10,1,False,True,4,26,Isak,4,95,Newcastle,Isak,13,1,13,False,Isak,9.0,,19,1841820
+447,11,1,False,False,4,26,Wood,4,72,Nott'm Forest,Wood,5,1,5,False,Wood,7.0,,25,1841820
+396,12,0,False,False,1,26,Dúbravka,1,43,Newcastle,Dúbravka,0,0,0,True,Dúbravka,4.2,,21,1841820
+159,13,0,False,False,2,26,Chalobah,2,44,Chelsea,Chalobah,1,0,0,True,Chalobah,4.4,,10,1841820
+252,14,0,False,False,4,26,Raúl,4,56,Fulham,Raúl,2,0,0,True,Raúl,5.4,,5,1841820
+292,15,0,False,False,3,26,Golding,3,44,Leicester,Golding,0,0,0,True,Golding,4.4,,0,1841820
