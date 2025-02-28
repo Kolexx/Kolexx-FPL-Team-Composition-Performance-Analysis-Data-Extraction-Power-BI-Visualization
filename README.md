@@ -23,7 +23,7 @@ This project aims to analyse team composition trends and player selection strate
 
 ## Primary Data Sources
 
-The project uses real-time data from the Fantasy Premier League API, which includes:
+The project uses real-time data from the Fantasy Premier League API, which includes [See Python Script Here](https://github.com/Kolexx/Kolexx-FPL-Team-Composition-Performance-Analysis-Data-Extraction-Power-BI-Visualization/blob/main/scripts/FPL.ipynb):
 
 - Player Information – Names, positions, teams, initial prices, and performance metrics.
 
