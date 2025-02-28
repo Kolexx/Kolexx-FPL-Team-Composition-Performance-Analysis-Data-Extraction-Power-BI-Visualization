@@ -33,4 +33,18 @@ The project uses real-time data from the Fantasy Premier League API, which inclu
 
 - Team Selection Data – Players selected for each gameweek, including starters and bench players.
 
+# Data Storage & Processing
+
+- Data is fetched using Python (requests and pandas).
+
+- Cleaned and structured into CSV format [Download here](https://github.com/Kolexx/Kolexx-FPL-Team-Composition-Performance-Analysis-Data-Extraction-Power-BI-Visualization/blob/main/data/FPL_Team_Analysis.csv).
+
+- Processed data is visualized using Power BI.
+
+
+
+
+
+
+
 
