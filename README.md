@@ -45,7 +45,7 @@ The project uses real-time data from the Fantasy Premier League API, which inclu
 
 which are Data Cleaning & Transformation : A structured approach was taken to clean and transform the raw data into a format suitable for analysis. The steps included:
 
-**- Handling Missing Values:**
+** Handling Missing Values:**
 
 - Identified missing values in critical columns such as Buying Price and Selling Price.
 
@@ -53,13 +53,13 @@ which are Data Cleaning & Transformation : A structured approach was taken to cl
 
 - If a player’s price was missing and no historical data was available, their entry was flagged for further review.
 
-**- Standardizing Column Names:**
+** Standardizing Column Names:**
 
 - Ensured all dataset headers followed a consistent naming convention.
 
 - Renamed ambiguous column names to improve readability (e.g., element renamed to Player ID).
 
-**- Merging Datasets:**
+** Merging Datasets:**
 
 - Combined multiple datasets, including player performance, team selection history, and rankings.
 
@@ -67,13 +67,13 @@ which are Data Cleaning & Transformation : A structured approach was taken to cl
 
 - Resolved issues where the same player appeared multiple times in different datasets by using drop_duplicates().
 
-**- Removing Duplicates:**
+** Removing Duplicates:**
 
 - Used drop_duplicates(subset=['Player ID', 'Gameweek']) to ensure no duplicate records existed per gameweek.
 
 - Verified that all unique Player ID entries had valid associated gameweek data.
 
-**- Creating Derived Features:**
+** Creating Derived Features:**
 
 - Formation Composition – Counted the number of Goalkeepers, Defenders, Midfielders, and Forwards per gameweek using groupby() and value_counts().
 
