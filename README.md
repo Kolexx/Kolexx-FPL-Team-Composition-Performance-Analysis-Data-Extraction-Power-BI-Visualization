@@ -41,6 +41,50 @@ The project uses real-time data from the Fantasy Premier League API, which inclu
 
 - Processed data is visualized using Power BI.
 
+# Data Preparation
+
+which are Data Cleaning & Transformation : A structured approach was taken to clean and transform the raw data into a format suitable for analysis. The steps included:
+
+**- Handling Missing Values:**
+
+- Identified missing values in critical columns such as Buying Price and Selling Price.
+
+- Used previous gameweek data to fill in missing prices where applicable.
+
+- If a player’s price was missing and no historical data was available, their entry was flagged for further review.
+
+**- Standardizing Column Names:**
+
+- Ensured all dataset headers followed a consistent naming convention.
+
+- Renamed ambiguous column names to improve readability (e.g., element renamed to Player ID).
+
+**- Merging Datasets:**
+
+- Combined multiple datasets, including player performance, team selection history, and rankings.
+
+- Used Pandas' merge() function with Player ID as the common key.
+
+- Resolved issues where the same player appeared multiple times in different datasets by using drop_duplicates().
+
+**- Removing Duplicates:**
+
+- Used drop_duplicates(subset=['Player ID', 'Gameweek']) to ensure no duplicate records existed per gameweek.
+
+- Verified that all unique Player ID entries had valid associated gameweek data.
+
+**- Creating Derived Features:**
+
+- Formation Composition – Counted the number of Goalkeepers, Defenders, Midfielders, and Forwards per gameweek using groupby() and value_counts().
+
+- Transfer Effectiveness – Computed the difference in points before and after transfers to assess their impact on overall ranking.
+
+- Bench Contribution – Compared points earned by starting players versus those left on the bench, highlighting potential lost points.
+
+- Captain Impact – Evaluated how captain and vice-captain choices influenced total team points using multipliers applied to selected players.
+
+
+
 
 
 
