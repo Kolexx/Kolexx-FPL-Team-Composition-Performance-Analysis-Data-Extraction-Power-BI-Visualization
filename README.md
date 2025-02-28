@@ -13,6 +13,10 @@ Fantasy Premier League (FPL) managers face challenges in optimizing their team c
 
 **iii) Tracking Player Value Changes** – Player prices fluctuate throughout the season, affecting budget management.
 
-**iv) Understanding Transfer Impact** – Weekly transfers need to be analyzed for their impact on overall rank.
+**iv) Understanding Transfer Impact** – Weekly transfers need to be analysed for their impact on overall rank.
 
 **v) Bench Utilization Issues** – Players on the bench often contribute significant points that go unused.
+
+## Objective
+
+This project aims to analyze team composition trends and player selection strategies by tracking how different formations, transfers, and budget decisions influence overall ranking. Insights from this analysis will help FPL managers make data-driven decisions to improve their rankings.
