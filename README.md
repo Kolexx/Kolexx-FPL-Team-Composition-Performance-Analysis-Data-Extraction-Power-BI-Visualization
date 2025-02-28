@@ -6,5 +6,9 @@ This project analyzes the composition of a Fantasy Premier League (FPL) team to 
 **🎯 Objectives**
 
 i) Track FPL team composition across gameweeks.
+
+
 ii) Analyze the impact of formations and player selections on rank.
+
+
 iii) Visualize trends in successful FPL team structures using Power BI.
