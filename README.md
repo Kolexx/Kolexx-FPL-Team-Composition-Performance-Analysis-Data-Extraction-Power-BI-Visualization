@@ -20,3 +20,17 @@ Fantasy Premier League (FPL) managers face challenges in optimizing their team c
 ## Objective
 
 This project aims to analyse team composition trends and player selection strategies by tracking how different formations, transfers, and budget decisions influence overall ranking. Insights from this analysis will help FPL managers make data-driven decisions to improve their rankings.
+
+## Primary Data Sources
+
+The project uses real-time data from the Fantasy Premier League API, which includes:
+
+- Player Information – Names, positions, teams, initial prices, and performance metrics.
+
+- Gameweek Data – Weekly points, rankings, and overall team performance.
+
+- Transfer Data – History of transfers made, including buying and selling prices.
+
+- Team Selection Data – Players selected for each gameweek, including starters and bench players.
+
+
