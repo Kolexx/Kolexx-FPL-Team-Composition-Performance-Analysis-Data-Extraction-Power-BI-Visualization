@@ -19,4 +19,4 @@ Fantasy Premier League (FPL) managers face challenges in optimizing their team c
 
 ## Objective
 
-This project aims to analyze team composition trends and player selection strategies by tracking how different formations, transfers, and budget decisions influence overall ranking. Insights from this analysis will help FPL managers make data-driven decisions to improve their rankings.
+This project aims to analyse team composition trends and player selection strategies by tracking how different formations, transfers, and budget decisions influence overall ranking. Insights from this analysis will help FPL managers make data-driven decisions to improve their rankings.
