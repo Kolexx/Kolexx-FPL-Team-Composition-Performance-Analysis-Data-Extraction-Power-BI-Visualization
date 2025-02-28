@@ -1,14 +1,18 @@
 # Kolexx-FPL-Team-Composition-Performance-Analysis-Data-Extraction-Power-BI-Visualization
-**📌 Project Overview**
-
-This project analyses the composition of a Fantasy Premier League (FPL) team to understand how team structure impacts overall ranking and performance. Using data from the FPL API, we examine trends in successful team compositions over time, tracking player transfers, points, and price changes.
-
-**🎯 Objectives**
-
-i) Track FPL team composition across gameweeks.
 
 
-ii) Analyse the impact of formations and player selections on rank.
+## Business Decision Support
 
+### Problem Statement
 
-iii) Visualise trends in successful FPL team structures using Power BI.
+Fantasy Premier League (FPL) managers face challenges in optimizing their team compositions for consistent success. Many rely on intuition rather than data-driven insights, leading to suboptimal decisions regarding formations, player transfers, and budget allocation. Key challenges include:
+
+**i) Lack of Data-Driven Decision Making** – Many managers do not leverage analytics to guide player selection.
+
+**ii) Unclear Impact of Team Composition** – Determining the optimal balance of forwards, midfielders, and defenders over time is difficult.
+
+**iii) Tracking Player Value Changes** – Player prices fluctuate throughout the season, affecting budget management.
+
+**iv) Understanding Transfer Impact** – Weekly transfers need to be analyzed for their impact on overall rank.
+
+**v) Bench Utilization Issues** – Players on the bench often contribute significant points that go unused.
