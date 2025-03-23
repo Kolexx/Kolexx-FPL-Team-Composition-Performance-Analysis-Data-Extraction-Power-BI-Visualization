@@ -83,6 +83,8 @@ which are Data Cleaning & Transformation : A structured approach was taken to cl
 
 - Captain Impact – Evaluated how captain and vice-captain choices influenced total team points using multipliers applied to selected players.
 
+**The PowerBI FPL dashboard reveals key insights, including stable team value, fluctuating captain contributions, a steady ranking improvement after early drops, and the need for optimized transfers and squad balance, highlighting areas to refine for better performance**
+
 
 
 
