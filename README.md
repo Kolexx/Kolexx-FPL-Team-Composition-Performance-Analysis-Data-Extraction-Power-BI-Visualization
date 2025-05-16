@@ -85,6 +85,8 @@ which are Data Cleaning & Transformation : A structured approach was taken to cl
 
 **The PowerBI FPL dashboard reveals key insights, including stable team value, fluctuating captain contributions, a steady ranking improvement after early drops, and the need for optimized transfers and squad balance, highlighting areas to refine for better performance**
 
+[**POWER BI vISTUSUALIZATION**](https://app.powerbi.com/view?r=eyJrIjoiYjE3MzRiNTQtZTlkNC00OWRmLTg1ZTUtZGU1NGNkNDFmMmY0IiwidCI6IjdkZWM4NzIzLTZkM2MtNDMwNy05ODdlLWUzYmRiYTI1MGZmZSJ9&pageName=cac36533dcc9bd64bb30)
+
 
 
 
